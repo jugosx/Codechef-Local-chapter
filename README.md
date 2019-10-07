@@ -8,3 +8,9 @@ To get started : [How to create a pull request](https://www.digitalocean.com/com
 To see deployments by `Now` : Go to Environment tab on homepage and find your commit in activity log.
 
 # Happy Coding !
+
+# Tech Stack
+
+- Bootstrap
+- CSS
+- Javascript
